@@ -13,7 +13,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/shivaansh0712
   
-🌱 I’m currently learning : *Machine Learning,Data Science*
+🌱 I’m currently learning : *Machine Learning,Data Science,Front End*
 
   👯 I’m looking to collaborate on my webpage
 
